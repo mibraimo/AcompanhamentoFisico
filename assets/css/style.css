@@ -619,7 +619,7 @@ input:-ms-input-placeholder {
     padding: 50px 20px;
     text-align: left;
     padding-left: 35px;
-	margin-bottom : 30px;
+	margin-bottom : 10px;
 }
 .first_fitness_area .single_left_first_fitness .left_first_fitness_heading h5{
     color:#fd634e;
@@ -654,12 +654,13 @@ input:-ms-input-placeholder {
 .first_fitness_area .single_right_first_fitness{
     position: relative;
     overflow: hidden;
-	margin-bottom : 30px;
+	margin-bottom : 10px;
+	height: 700px;
+    max-height: 900px;
 }
 .first_fitness_area .single_right_first_fitness .single_right_first_fitness_img img{
     width:100%;
-     height: 700px;
-    max-height: 900px;
+     
 	
     position: relative;
 }
